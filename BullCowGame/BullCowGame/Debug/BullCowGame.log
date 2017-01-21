@@ -1,4 +1,0 @@
-﻿  main.cpp
-d:\github\unreal\bullcowgame\bullcowgame\main.cpp(106): warning C4715: 'GetValidGuess': not all control paths return a value
-  BullCowGame.vcxproj -> D:\GitHub\Unreal\BullCowGame\Debug\BullCowGame.exe
-  BullCowGame.vcxproj -> D:\GitHub\Unreal\BullCowGame\Debug\BullCowGame.pdb (Full PDB)
