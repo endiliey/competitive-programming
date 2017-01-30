@@ -275,5 +275,5 @@ __pycache__/
 # !tools/packages.config
 
 # Ignore .exe and .o
-.exe
-.o
+*.exe
+*.o
