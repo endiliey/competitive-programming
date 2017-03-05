@@ -277,3 +277,5 @@ __pycache__/
 # Ignore .exe and .o
 *.exe
 *.o
+*.out
+*.in
