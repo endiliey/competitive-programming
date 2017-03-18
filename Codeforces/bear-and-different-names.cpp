@@ -22,23 +22,14 @@ int main()
 	int n, k;
 	cin >> n >> k;
 	string input;
+	for (int i = 0; i < n; ++i)
+	{
+		pos[i] = i;
+	}
 	for (int i = 0; i < (n - k + 1); i++)
 	{
 		cin >> input;
-		if (input == "YES")
-		{	
-			int last = -1;
-			if (i - 1 >= 0)
-				last = pos[i - 1];
-			int prev = pos[i];
-			for(int j = i + 1; j < i + k; j++)
-			{
-				prev++;
-				if (pos[j] != last)
-					pos[j] = prev;	
-			}
-		}
-		else
+		if (input == "NO")
 		{
 			pos[i + k - 1] = pos[i];
 		}
