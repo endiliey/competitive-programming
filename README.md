@@ -4,7 +4,7 @@
 
 Given well-known Computer Science (CS) problems, solve them as quickly as possible!
 
-[!Summary](happiness.jpeg)
+![Summary](happiness.jpeg)
 
 **What is this repository ?**
 
