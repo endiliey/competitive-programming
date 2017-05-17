@@ -1,10 +1,16 @@
-#Competitive programming
+# Competitive programming
 
-## Most Used Competitive Programming Platform : Codeforces
+**What is competitive programming ?**
 
-**Important**
+Given well-known Computer Science (CS) problems, solve them as quickly as possible!
 
-Reference:
-https://www.topcoder.com/community/data-science/data-science-tutorials/
+[!Summary](happiness.jpeg)
 
-Disclaimer : I am aware that my materials might not be free of errors. I intend to correct them as I encounter it.
+**What is this repository ?**
+
+Created with the purpose of documenting my solutions to various cp problems.
+You might find it useful or not useful, but I hope it'll be useful for me :)
+
+## Favourite Platform: Codeforces
+
+
